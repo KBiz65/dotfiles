@@ -4,7 +4,7 @@ set -e
 
 # Bootstrap dotfiles
 if [[ ! -d "$HOME/.dotfiles" ]]; then
-  git clone https://github.com/nickcannariato/dotfiles .dotfiles
+  git clone https://github.com/KBiz65/dotfiles .dotfiles
 fi
 
 # shellcheck source=lib/globals
