@@ -2,7 +2,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-[@nickcannariato's](https://github.com/nickcannariato) developer envirionment
+[@KBiz65's](https://github.com/KBiz65) developer envirionment
 
 TODO: Fill out this long description.
 
@@ -30,8 +30,8 @@ TODO: Fill out this long description.
 
 ## Maintainers
 
-[@nickcannariato](https://github.com/nickcannariato)
+[@KBiz65](https://github.com/KBiz65)
 
 ## License
 
-MIT © 2020 Nick Cannariato
+MIT © 2020 Kevin Bisner
