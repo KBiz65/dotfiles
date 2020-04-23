@@ -3,9 +3,9 @@
 <plist version="1.0">
 	<dict>
 		<key>Label</key>
-		<string>com.cannariato.nick.update</string>
+		<string>com.bisner.kevin.update</string>
 		<key>Program</key>
-		<string>/Users/nickcannariato/.dotfiles/script/update</string>
+		<string>/Users/kevinbisner/.dotfiles/script/update</string>
 		<key>StartCalendarInterval</key>
 		<dict>
 			<key>Hour</key>
