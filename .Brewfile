@@ -89,10 +89,3 @@ cask "spotify"
 cask "spotify-now-playing"
 cask "visual-studio-code"
 cask "zoomus"
-mas "Affinity Designer", id: 824171161
-mas "Affinity Photo", id: 824183456
-mas "Affinity Publisher", id: 881418622
-mas "Final Cut Pro", id: 424389933
-mas "Logic Pro X", id: 634148309
-mas "Todoist", id: 585829637
-mas "Xcode", id: 497799835
