@@ -72,7 +72,7 @@ user:
     StatusMenuVisible: false
 
   com.apple.finder:
-    NewWindowTargetPath: file:///Users/nickcannariato/
+    NewWindowTargetPath: file:///Users/kevinbisner/
     FXICloudDriveDesktop: false
     FXICloudDriveDocuments: false
     FXICloudDriveEnabled: true
