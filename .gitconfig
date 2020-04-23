@@ -13,9 +13,8 @@
 	editor = code --wait
 
 [user]
-	name = Nick Cannariato
-	email = 434063+nickcannariato@users.noreply.github.com
-	signingkey = 2F8A8F4712AF2A3C
+	name = Kevin Bisner
+	email = kbiz@protonmail.com
 
 [color]
 	branch = always
@@ -52,8 +51,8 @@
 	whitespace = fix
 
 [github]
-	user = nickcannariato
-	token = !security find-internet-password -a nickcannariato -s github.com -w
+	user = KBiz65
+	token = !security find-internet-password -a KBiz65 -s github.com -w
 
 [push]
 	default = current
@@ -82,12 +81,6 @@
 	newNormal = green bold
 	newHighlight = green bold 22
 	oldNormal = red bold
-
-[commit]
-	gpgsign = true
-
-[gpg]
-	program = gpg
 
 [url "https://github.com"]
 	insteadOf = git://github.com
