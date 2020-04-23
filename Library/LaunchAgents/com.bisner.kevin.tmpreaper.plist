@@ -3,12 +3,12 @@
 <plist version="1.0">
 	<dict>
 		<key>Label</key>
-		<string>com.cannariato.nick.tmpreaper</string>
+		<string>com.bisner.kevin.tmpreaper</string>
 		<key>ProgramArguments</key>
 		<array>
 			<string>/usr/local/sbin/tmpreaper</string>
 			<string>30d</string>
-			<string>/Users/nickcannariato/Downloads</string>
+			<string>/Users/kevinbisner/Downloads</string>
 		</array>
 		<key>StartCalendarInterval</key>
 		<dict>
